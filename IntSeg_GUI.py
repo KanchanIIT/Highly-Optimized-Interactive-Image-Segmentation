@@ -1,3 +1,7 @@
+'''
+This is the code for python UI. 
+'''
+
 from Tkinter import *
 import Tkinter, Tkconstants, tkFileDialog
 from PIL import Image, ImageTk
