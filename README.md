@@ -7,7 +7,7 @@ This is a Tensorflow implementation of Interactive Image Segmentation with Laten
 
 ![Raw Segmentation Mask](res/83567032/Ours/00000/segs/009.png?  "Raw Segmentation Mask") ![Segmentation Results (Overlay)](res/83567032/Ours/00000/tmps/ol_009.png? "Segmentation Results (Overlay)")
 
-Solarized dark             |  Solarized Ocean
+Distance Map for Positive Clicks            |  Distance Map for Negative Clicks
 :-------------------------:|:-------------------------:
 ![Distance Map for Positive Clicks](res/83567032/Ours/00000/ints/pos_dt_001.png? "Distance Map for Positive Clicks")  |  ![Distance Map for Negative Clicks](res/83567032/Ours/00000/ints/pos_dt_004.png? "Distance Map for Negative Clicks")
 
