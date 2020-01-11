@@ -2,16 +2,10 @@
 This is a Tensorflow implementation of Interactive Image Segmentation with Latent Diversity. It receives positive and negative clicks and produces segmentation masks.
 
 ## Examples
-#### Distance Map for Positive Clicks
-![Alt text](res/83567032/Ours/00000/ints/pos_dt_001.png?raw=true "Title")
-#### Distance Map for Negative Clicks
-![Alt text](res/83567032/Ours/00000/ints/pos_dt_004.png?raw=true "Title")
-#### Raw Segmentation Mask
-![Alt text](res/83567032/Ours/00000/segs/009.png?raw=true "Title")
-#### Segmentation Results (Overlay)
-![Alt text](res/83567032/Ours/00000/tmps/ol_009.png?raw=true "Title")
 
 ![Distance Map for Positive Clicks](res/83567032/Ours/00000/ints/pos_dt_001.png?raw=true  "Distance Map for Positive Clicks") ![Distance Map for Negative Clicks](res/83567032/Ours/00000/ints/pos_dt_004.png?raw=true "Distance Map for Negative Clicks")
+
+![Raw Segmentation Mask](res/83567032/Ours/00000/segs/009.png?raw=true  "Raw Segmentation Mask") ![Segmentation Results (Overlay)](res/83567032/Ours/00000/tmps/ol_009.png?raw=true "Segmentation Results (Overlay)")
 
 ## Setup
 
