@@ -9,7 +9,7 @@ from ttk import Frame, Style, Button, Radiobutton
 import os, time, cv2
 import numpy as np
 import tkMessageBox as mbox
-from our_func_cvpr18 import our_func
+from omodel_distance_fun import our_func
 import tensorflow as tf
 
 
