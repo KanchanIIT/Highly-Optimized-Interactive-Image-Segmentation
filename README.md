@@ -11,6 +11,7 @@ This is a Tensorflow implementation of Interactive Image Segmentation with Laten
 #### Segmentation Results (Overlay)
 ![Alt text](res/83567032/Ours/00000/tmps/ol_009.png?raw=true "Title")
 
+![Distance Map for Positive Clicks](res/83567032/Ours/00000/ints/pos_dt_001.png?raw=true  "Distance Map for Positive Clicks") ![Distance Map for Negative Clicks](res/83567032/Ours/00000/ints/pos_dt_004.png?raw=true "Distance Map for Negative Clicks")
 
 ## Setup
 
