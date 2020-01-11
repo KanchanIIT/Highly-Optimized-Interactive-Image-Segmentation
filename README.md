@@ -9,7 +9,7 @@ This is a Tensorflow implementation of Interactive Image Segmentation with Laten
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](es/83567032/Ours/00000/ints/pos_dt_001.png)  |  ![](es/83567032/Ours/00000/ints/pos_dt_004.png)
+![Distance Map for Positive Clicks](res/83567032/Ours/00000/ints/pos_dt_001.png? "Distance Map for Positive Clicks")  |  ![Distance Map for Negative Clicks](res/83567032/Ours/00000/ints/pos_dt_004.png? "Distance Map for Negative Clicks")
 
 
 ## Setup
