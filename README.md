@@ -7,6 +7,11 @@ This is a Tensorflow implementation of Interactive Image Segmentation with Laten
 
 ![Raw Segmentation Mask](res/83567032/Ours/00000/segs/009.png?  "Raw Segmentation Mask") ![Segmentation Results (Overlay)](res/83567032/Ours/00000/tmps/ol_009.png? "Segmentation Results (Overlay)")
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](es/83567032/Ours/00000/ints/pos_dt_001.png)  |  ![](es/83567032/Ours/00000/ints/pos_dt_004.png)
+
+
 ## Setup
 
 ### Requirement
